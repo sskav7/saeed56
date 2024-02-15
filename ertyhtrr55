@@ -1,0 +1,1 @@
+cp $fHOME/networks/mamaki/genesis.json $fHOME/.celestia-app/config/
